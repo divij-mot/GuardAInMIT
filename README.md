@@ -1,0 +1,2 @@
+This is a repository continaing code and other supplementary files for the GuardAIn project. GuardAIn was submitted into MIT's CRE[AT]E Assistive Technology Challenge, where it won and was awarded for being the most innovative project. 
+More information can be found on our project page (https://www.beaver-works-assistive-tech.mit.edu/create-challenge/2024-project-section/2024-project-page-guardain), including the workflow and how it can be used.
